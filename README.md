@@ -8,6 +8,7 @@ Bem-vindo ao meu portfólio! Meu nome é Marcelo, sou apaixonado por desenvolvim
 
 - **Nome:** Marcelo
 - **Localização:** Oriximiná, PA, Brasil (disponível para trabalho remoto e reuniões em qualquer fuso horário)
+- **Formação:** Estudante de Sistema de Informação na Universidade Federal do Oeste do Pará (UFOPA), cursando o 8º período.
 - **Objetivo:** Estágio ou posição júnior como Desenvolvedor de Jogos para adquirir experiência prática e contribuir com projetos criativos.
 
 ---
@@ -17,10 +18,10 @@ Bem-vindo ao meu portfólio! Meu nome é Marcelo, sou apaixonado por desenvolvim
 - **Lógica de Programação:** Boa compreensão de lógica de sistemas e estruturas baseadas em estatísticas.
 - **UI/UX:** Estudando criação de interfaces intuitivas e funcionais com Unity UI.
 - **Ferramentas e Tecnologias:**
-  - Unity
-  - C#
-  - Desenvolvimento de jogos 2D
-  - Spine (estudando para melhorar)
+  - Unity
+  - C#
+  - Desenvolvimento de jogos 2D
+  - Spine (estudando para melhorar)
 
 ---
 
@@ -74,4 +75,3 @@ Adiquirindo mais experiência em algumas áreas exigidas pela vaga, estou empenh
 - **E-mail:** marceloswap@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/marcelo-ferreira-de-souza-b9b0a1227](https://www.linkedin.com/in/marcelo-ferreira-de-souza-b9b0a1227)
 - **GitHub:** [https://github.com/MarceloSwap](https://github.com/MarceloSwap)
-
