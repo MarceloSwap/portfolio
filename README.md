@@ -50,7 +50,7 @@ Adiquirindo mais experiência em algumas áreas exigidas pela vaga, estou empenh
 
 ### **3. Wai **
 
-- **Descrição:** Jogo com sistema de tradução para vários indiomas e progesso de fases. Tem o objetivo de ajudar indígenas da Tribo WaiWai com informações para o melhor convivel com a sociedade.
+- **Descrição:** Jogo com sistema de tradução para vários indiomas e progesso de fases. Tem o objetivo de ajudar indígenas da Tribo WaiWai com informações para o melhor convívio com a sociedade.
 - **Video:** [Acesse o video](https://drive.google.com/file/d/1MDxWCdneQbyInuJCJshZD8zq3o80717q/view?usp=sharing)
 
 ### **4. Possuo outros projetos que aguardo uma oportunidade de entrevista para mostrar **
